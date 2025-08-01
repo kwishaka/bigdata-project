@@ -29,6 +29,14 @@ It covers data cleaning, feature engineering, machine learning modeling, and int
 )
 
 - 
+![Alt Text](C:\Users\HP\OneDrive\Desktop\bigdata project/<img width="1004" height="410" alt="image3" src="https://github.com/user-attachments/assets/39a712dd-390f-4a2c-a374-a6da5f5c1248" />
+)
+![Alt Text](C:\Users\HP\OneDrive\Desktop\bigdata project/<img width="1090" height="500" alt="image4" src="https://github.com/user-attachments/assets/ad241d19-d348-4697-9624-6cb3e84247d9" />
+
+)
+![Alt Text](C:\Users\HP\OneDrive\Desktop\bigdata project/<img width="1015" height="531" alt="image5" src="https://github.com/user-attachments/assets/a406a9b5-7492-4b7f-a826-93cff6b9e913" />
+ )
+
 
  Screenshots
 ![Dashboard Overview](images/screenshots/dashboard_overview.png)
