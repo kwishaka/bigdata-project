@@ -67,7 +67,8 @@ It covers data cleaning, feature engineering, machine learning modeling, and int
 )
 
  Screenshots
-![Dashboard Overview](images/screenshots/dashboard_overview.png)
+![Dashboard Overview](images/C:\Users\HP\OneDrive\Desktop\bigdata project/<img width="767" height="432" alt="dashboard" src="https://github.com/user-attachments/assets/ce3bc21d-952f-496a-944e-e827ac46fe0c" />
+)
 ![Model Results](images/screenshots/model_results.png)
 
  Results & Insights
