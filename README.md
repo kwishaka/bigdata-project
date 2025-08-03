@@ -67,9 +67,9 @@ It covers data cleaning, feature engineering, machine learning modeling, and int
 )
 
  Screenshots
-![Dashboard Overview](images/C:\Users\HP\OneDrive\Desktop\bigdata project/<img width="767" height="432" alt="dashboard" src="https://github.com/user-attachments/assets/ce3bc21d-952f-496a-944e-e827ac46fe0c" />
+![Dashboard Overview](images/C:\Users\HP\OneDrive\Desktop\bigdata project/<img width="757" height="438" alt="power bii" src="https://github.com/user-attachments/assets/0beec773-958d-4bff-a3a9-933f8e77c50e" />
+
 )
-![Model Results](images/screenshots/model_results.png)
 
  Results & Insights
 - Key findings from data analysis and modeling.
