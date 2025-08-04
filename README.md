@@ -1,19 +1,20 @@
-my Project: Respiratory Charting Analysis
+my Project: PERSONALISING TREATMENT PLANS BASED ON PATIENT HISTORY
 
 name:ukwishaka sandrine
 
  Overview
 This project analyzes respiratory charting data using Python and Power BI.  
 It covers data cleaning, feature engineering, machine learning modeling, and interactive dashboard creation.
+Problem Statement<img width="834" height="193" alt="image" src="https://github.com/user-attachments/assets/e7100f88-0e58-4a02-9b33-9d9477ba3ca8" />
 
 
  How to Run
-1. *Clone the repository:**
+1. *Clone the repository:*
    
     ```
 2. *Open and run the Jupyter notebook:**
     - Use VS Code or Jupyter Lab.
-    - Run `patient.ipynb` to clean data and build models.
+     - Run `patient.ipynb` to clean data and build models.
 3. *Open Power BI dashboard:**
     - Open `dashboard.pbix` in Power BI Desktop.
     - Data visuals and interactivity are available.
