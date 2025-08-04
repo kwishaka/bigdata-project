@@ -5,12 +5,15 @@ name:ukwishaka sandrine
  Overview
 This project analyzes respiratory charting data using Python and Power BI.  
 It covers data cleaning, feature engineering, machine learning modeling, and interactive dashboard creation.
+
 Problem Statement
 
-Monitoring respiratory parameters is critical in ICU settings to ensure patients receive proper oxygenation and ventilation.
+Monitoring respiratory parameters is critical in ICU settings 
+to ensure patients receive proper oxygenation and ventilation.
 This project analyzes and visualizes respiratory data to support clinical decision-making.
-Objective: Build an interactive Power BI dashboard to monitor key respiratory metrics such as FiO₂, LPM O₂, and ventilator rates.
-<img width="3593" height="332" alt="image" src="https://github.com/user-attachments/assets/e379365c-e693-4315-b96d-76898faf5269" />
+Objective: Build an interactive Power BI dashboard
+to monitor key respiratory metrics such as FiO₂, LPM O₂, and ventilator rates.
+
 
  How to Run
 1. *Clone the repository:*
